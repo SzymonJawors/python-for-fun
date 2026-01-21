@@ -8,5 +8,4 @@ def fizz_buzz():
             print("Buzz")
         else:
             print(i)
-            
 fizz_buzz()
